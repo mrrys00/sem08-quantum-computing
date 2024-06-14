@@ -2,6 +2,6 @@
 
 ## Labs description
 
-All labs finished for 100%
+All labs finished: 100% :checkmark:
 
 Teacher: dr Karol Capała
